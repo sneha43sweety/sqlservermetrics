@@ -1,0 +1,9 @@
+
+sudo apt-get install python3
+sudo apt-get update
+sudo apt-get install python3-pip
+sudo apt install sysstat
+sudo apt install crmsh
+pip3 install pymssql
+pip3 install configparser
+
